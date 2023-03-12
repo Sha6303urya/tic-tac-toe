@@ -12,13 +12,6 @@ google-chrome index.html
 
 
 
-## Introduction
-
-<p align="center">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/tic-tac-toe/main/Screenshots/1.jpg" width="800">
-</p>
-
-
 ### Rules
 
 - Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
@@ -27,9 +20,3 @@ google-chrome index.html
 
 
 
-## Author
-
-👤 **Aras Güngöre**
-
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
